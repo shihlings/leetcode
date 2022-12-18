@@ -1,4 +1,5 @@
-# Solutions in C LeetCode
+# Solutions in C for LeetCode
+Previous code written in C++ for Zerojudge can be found in [shihlings/zerojudge](https://github.com/shihlings/zerojudge). They are now archived. This repository includes my solutions written in C to the [LeetCode questions](https://leetcode.com).
 
 ## Repository Management
 ### Branch Hierarchy
@@ -8,4 +9,4 @@
 'main' and 'staging' are protected and cannot be deleted.
 
 ### Commit Signing and Verification
-All commits made on or after Decmeber 15th, 2022 to this repository are required to be signed. Any unsigned commits will be blocked.
+All commits made to this repository are required to be signed. Any unsigned commits will be blocked.
